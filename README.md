@@ -23,7 +23,7 @@ cd ml-systems
 
 ## Projects
 
-### Project 1: Regression System
+### Project 1: Regression System | California House Price Regression
 
 This project focuses on regression techniques using algorithms. It includes:
 
